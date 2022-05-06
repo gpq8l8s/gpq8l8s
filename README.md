@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 <p>
   <img src="https://img.shields.io/badge/<HTML>-<RED>"/>
-  <img src=https://img.shields.io/badge/<CSS>-<ff69b4>"/>
+  <img src="https://img.shields.io/badge/<CSS>-<ff69b4>"/>
 </p>  
