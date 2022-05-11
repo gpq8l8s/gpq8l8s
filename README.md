@@ -1,20 +1,63 @@
-### Hi there 👋
+<style type="text/css">
+  p {
+    font-family: 'futura';
+  }
+  .section-a > a {
+    margin-right: 5px;
+  }
+  .section-b > div > a{
+    margin-right: 5px;
+  }
+  #title{
+    margin-top: 20px
+  }
+  .section-b {
+    margin-bottom: 20px;
+  }
+  .section-c > div > img{
+    margin-right: 5px;
+  }
+  .section-a > a > img:hover,
+  .section-b > div > a > img:hover,
+  .section-c > div > img:hover
+</style>
 
-<!--
-**gpq8l8s/gpq8l8s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="hi-there.svg">
+<p >I'm am currently studing developpement web at OpenClassRooms
+and on the course of Harvard : Computer Science and Web Programming with Python and JavaScript</p>
 
-Here are some ideas to get you started:
+<p><img src="./icons/location.svg"> Living in France (nord)</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<p>
-  <img src="https://img.shields.io/badge/<HTML>-<RED>"/>
-  <img src="https://img.shields.io/badge/<CSS>-<ff69b4>"/>
-</p>  
+<div class="section-a">
+  <a hreh="https://gpq8l8s.github.io/HyebinKim/"><img src="./icons/personal-site.svg"></a>
+  <a hreh="https://www.linkedin.com/in/hyebin-kim-61b787196/"><img src="./icons/linkedin.svg"></a>
+  <a hreh="mailto:Hyebin0KIM@gmail.com"><img src="./icons/mail.svg"></a>
+  <a hreh="https://occipital-scapula-12a.notion.site/Hyebin-Kim-0adec3c683354a36bd5d542afdf313f7"><img src="./icons/notion.svg"></a>
+</div>
+
+<div class="section-b">
+  <p id="title"> click to see works I did with the programming languages :
+  <div>
+    <a href="https://github.com/gpq8l8s/Source-dev/tree/main/js"> <img src="./icons/js.svg"></a>
+    <a href="https://github.com/gpq8l8s/camping-site"> <img src="./icons/sass.svg"></a>
+    <a href="#"> <img src="./icons/vue.js.svg"></a>
+    <a href="#"> <img src="./icons/python.svg"></a>
+    <a href="#"> <img src="./icons/mysql.svg"></a>
+  </div>
+  <div>
+    <a href="#"> <img src="./icons/angular.svg"></a>
+    <a href="#"> <img src="./icons/api.svg"></a>
+    <a href="#"> <img src="./icons/mongodb.svg"></a>
+    <a href="https://github.com/gpq8l8s/C"> <img src="./icons/c.svg"></a>
+    <a href="https://github.com/gpq8l8s/HyebinKim"> <img src="./icons/html.svg"></a>
+  </div>
+</div>
+
+<div class="section-c">
+<p>Native korean, no problem to have conversation in French and English
+<div>
+<img src="./icons/kr.svg">
+<img src="./icons/fr.svg">
+<img src="./icons/usa.svg">
+</div>
+</div>
