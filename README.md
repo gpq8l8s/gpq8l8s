@@ -1,8 +1,8 @@
 <img src="hi-there.svg">
-<p style="font-family:futura">I'm am currently studing developpement web at OpenClassRooms
+<p style="font-family : 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; font-size: 18px">I'm am currently studying developpement web at OpenClassRooms
 and on the course of Harvard : Computer Science and Web Programming with Python and JavaScript</p>
 
-<p style="font-family:futura"><img src="./icons/location.svg"> Living in France (nord)</p>
+<p style="font-family : 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; font-size:18px"><img src="./icons/location.svg"> Living in France (nord)</p>
 
 <div class="section-a" style="margin-bottom: 20px">
   <a href="https://gpq8l8s.github.io/HyebinKim/"><img src="./icons/personal-site.svg" style="margin-right: 5px"></a>
@@ -12,7 +12,8 @@ and on the course of Harvard : Computer Science and Web Programming with Python 
 </div>
 
 <div class="section-b" style="margin-bottom: 20px">
-  <p style="font-family:futura"> click to see works I did with the programming languages :
+  <p style="font-family : 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; font-size:18px; margin:0"> Click to see works I did with the programming languages :
+  <p style="font-family : 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; font-size:18px; font-weight: 300; color: grey;">Can't click it? It means that I'm learning it 😘</p>
   <div>
     <a href="https://github.com/gpq8l8s/Source-dev/tree/main/js"> <img src="./icons/js.svg"></a>
     <a href="https://github.com/gpq8l8s/camping-site"> <img src="./icons/sass.svg"></a>
@@ -24,13 +25,14 @@ and on the course of Harvard : Computer Science and Web Programming with Python 
     <a href="#"> <img src="./icons/angular.svg" style="margin-right: 5px"></a>
     <a href="#"> <img src="./icons/api.svg" style="margin-right: 5px"></a>
     <a href="#"> <img src="./icons/mongodb.svg" style="margin-right: 5px"></a>
-    <a href="https://github.com/gpq8l8s/C" style="margin-right: 5px"> <img src="./icons/c.svg"></a>
+    <a href="https://github.com/gpq8l8s/C" style="margin-right: 5px"> <img src="./icons/lang-c.svg"></a>
     <a href="https://github.com/gpq8l8s/HyebinKim" style="margin-right: 5px"> <img src="./icons/html.svg"></a>
   </div>
 </div>
 
 <div class="section-c">
-<p style="font-family:futura">Native korean, no problem to have conversation in French and English
+  
+<p style="font-family : 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; font-size:18px">Native korean, no problem to have conversation in :
 <div>
 <img src="./icons/kr.svg" style="margin-right: 5px">
 <img src="./icons/fr.svg" style="margin-right: 5px">
