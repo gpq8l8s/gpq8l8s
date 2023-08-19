@@ -2,15 +2,15 @@
 <div style="font-family: 'futura'">
 <img src="hi-there.svg">
 <p ><img src="./icons/location.svg"> Living in France (nord)</p>
-[//] : <> (<h4 class="title">I am Engineer ! You can check my works on the links below :</h4>
+[//] : <> (<h4 class="title">I am Engineer ! You can check my works on the links below :</h4>)
 
 
-<div class="section-a">
+[//] : <> ( <div class="section-a">
   <a style="margin-right: 5px" hreh="https://gpq8l8s.github.io/HyebinKim/"><img src="./icons/personal-site.svg"></a>
   <a style="margin-right: 5px" hreh="https://www.linkedin.com/in/hyebin-kim-61b787196/"><img src="./icons/linkedin.svg"></a>
   <a style="margin-right: 5px" hreh="mailto:Hyebin0KIM@gmail.com"><img src="./icons/mail.svg"></a>
   <a style="margin-right: 5px" hreh="https://occipital-scapula-12a.notion.site/Hyebin-Kim-0adec3c683354a36bd5d542afdf313f7"><img src="./icons/notion.svg"></a>
-</div>
+</div>)
 
 <div class="section-b" style="margin-bottom: 20px;">
   <p id="works" style="margin-top: 20px;"> click to see works I did with the programming languages :
