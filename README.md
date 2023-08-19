@@ -24,7 +24,7 @@
     <a style="margin-right: 5px" href="https://github.com/gpq8l8s/C"> <img src="./icons/c.svg"></a>
     <a style="margin-right: 5px" href="#"> <img src="./icons/api.svg"></a>
     <a style="margin-right: 5px" href=""> <img src="./icons/html.svg"></a>
-  </div>)
+  </div>
 </div>
 
 <div class="section-c">
@@ -34,5 +34,5 @@
 <img style="margin-right: 5px;" src="./icons/fr.svg">
 <img style="margin-right: 5px;" src="./icons/usa.svg">
 </div>
-</div>
+</div>)
 </div>
