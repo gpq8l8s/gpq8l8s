@@ -1,8 +1,8 @@
 
 <div style="font-family: 'futura'">
 <img src="hi-there.svg">
-<p ><img src="./icons/location.svg"> Living in France (nord)</p>
-<!--- <h4 class="title">I am Engineer ! You can check my works on the links below :</h4>
+<!--- <p ><img src="./icons/location.svg"> Living in France (nord)</p>
+ <h4 class="title">I am Engineer ! You can check my works on the links below :</h4>
 
 
  <div class="section-a">
