@@ -2,7 +2,7 @@
 <div style="font-family: 'futura'">
 <img src="hi-there.svg">
 <p ><img src="./icons/location.svg"> Living in France (nord)</p>
-<h4 class="title">I am developer front-end ! You can check my works on the links below :</h4>
+[//] : <> (<h4 class="title">I am Engineer ! You can check my works on the links below :</h4>
 
 
 <div class="section-a">
@@ -24,7 +24,7 @@
     <a style="margin-right: 5px" href="https://github.com/gpq8l8s/C"> <img src="./icons/c.svg"></a>
     <a style="margin-right: 5px" href="#"> <img src="./icons/api.svg"></a>
     <a style="margin-right: 5px" href=""> <img src="./icons/html.svg"></a>
-  </div>
+  </div>)
 </div>
 
 <div class="section-c">
